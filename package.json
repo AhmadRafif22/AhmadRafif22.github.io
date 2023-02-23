@@ -1,0 +1,19 @@
+{
+  "name": "ahmadrafif22.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./input.css -o ./style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadRafif22/AhmadRafif22.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmadRafif22/AhmadRafif22.github.io/issues"
+  },
+  "homepage": "https://github.com/AhmadRafif22/AhmadRafif22.github.io#readme"
+}
